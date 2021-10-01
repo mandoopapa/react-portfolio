@@ -1,0 +1,176 @@
+{
+    "basic_info": {
+      "description_header": "안녕하세요!",
+      "description": "저는 풀스택 블록체인 개발자를 비전으로 품고 있는 이재성이라고 합니다. 저는 경영학 전공자로 창업, 비영리단체, 제조업 등 여러 분야에서 업무를 거치고 배우면서 IT 기술의 미래를 눈여겨 보았습니다. 미래 사회에서는 신뢰의 기술이 미래를 선도할 것이라 생각하여 배움의 필요성을 느껴 최근 BlockChain 개발자로 진로를 변경하여 개발 공부에 매진하고 있습니다. 현재는 자바스크립트, 리액트와 같은 프론트 엔드 기술을 배워 블록체인 전문 프론트 엔드 개발자로의 성장을 목표로 하고 있습니다. 감사합니다!",
+      "section_name": {
+        "about": "소개",
+        "projects": "프로젝트",
+        "skills": "기술 스택",
+        "experience": "경력사항"
+      }
+    },
+    "projects": [
+      {
+        "title": "블록체인 트릴레마 극복 로드맵",
+        "startDate": "2021.7",
+        "description": "goBlock 교육과정 중 첫번째 프로젝트로 블록체인 기술의 기반이 되는 합의 알고리즘에 대한 이해와 분석 과정을 담은 프로젝트입니다. 우리 팀은 기본적인 블록체인 트릴레마에 대한 분석과스텔라 합의 알고리즘 (Stella Consensus Protocol), 영지식 스타크 (Zero Knowledge-STARKs), 리카르디안 컨트랙트 (Ricardian Contract) 세 가지의 기술을 활용하여 스텔라 합의 알고리즘을 수정 보완한 PoDC 알고리즘을 제안하고 이를 활용한 블록체인 기반 투표 시스템을 제안 발표했습니다.",
+        "images": [
+          "images/portfolio/port1/p1.jpg",
+          "images/portfolio/port1/p2.jpg"
+        ],
+        "url": "https://github.com/mandoopapa/podc",
+        "technologies": [
+          {
+            "class": "devicon-slack-plain",
+            "name": "Slack"
+          }
+        ]
+      },
+      {
+        "title": "하이퍼렛저 패브릭 데모시연",
+        "startDate": "2021.8",
+        "description": "GoBlock 교육과정 중 두번째 프로젝트로 Private 블록체인 Hyperledger Fabric 시스템의 이해와 설치, 데모 실행 과정을 담은 프로젝트입니다. 저희 팀은 2020 도쿄올림픽에서 있었던 판정논란에서 아이디어를 착안해 신뢰의 기술을 입혀 믿을 수 있는 전세계인의 축제 올림픽을 다시 되찾자는 슬로건을 목표로 하는 올림픽 채점 시스템을 제안 발표했습니다. 심사위원들의 채점표를 Hyperledger Fabric Marbles Demo의 자산인 Marble들로 시각화하여 해당 선수에게 점수로 전달할 때마다 트랜잭션이 발생되고 원장(ledger)에 기록되게 하여 신뢰할 수 있는 채점시스템을 구현하는 것을 목표로 했습니다.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg",
+          "images/portfolio/photography/p3.jpg"
+        ],
+        "url": "https://github.com/mandoopapa/hyperdemo",
+        "technologies": [
+          {
+            "class": "devicon-ubuntu-plain",
+            "name": "Ubuntu 16.04"
+          },
+          {
+            "class": "fas fa-atom",
+            "name": "Hyperledger Fabric"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "GOPHER 해커톤 대회",
+        "startDate": "2021.8",
+        "description": "부산 CENTAP에서 열린 SOLID 원칙에 입각한 Go Lang 해커톤 코딩 대회에 참여하여 최우수상을 수상했습니다. 해당 대회에 코드 작성 및 발표를 진행했습니다.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/mandoopapa/gopher0827",
+        "technologies": [
+          {
+            "class": "devicon-go-plain",
+            "name": "Go Lang"
+          }
+        ]
+      },
+      {
+        "title": "깃허브 한글화 프로젝트 참여",
+        "startDate": "2021.8",
+        "description": "GitHub 오픈소스 프로젝트 중 하나인 깃허브 한글화 프로젝트에 Contributor로 참여했습니다. GitHub 페이지의 한글화를 Typescript와 CSS 셀렉터를 활용하여 진행하는 프로젝트로 구글 크롬 확장프로그램을 설치하여 누구나 편리하게 사용이 가능합니다.",
+        "images": [
+          "images/portfolio/github_ext/p1.jpg",
+          "images/portfolio/github_ext/p2.jpg",
+          "images/portfolio/github_ext/p3.jpg"
+        ],
+        "url": "https://github.com/hatemogi/github-ko-ext",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-chrome-plain",
+            "name": "ChromeExtension"
+          }
+        ]
+      },
+      {
+        "title": "Go Gin 프레임워크 게시판 제작",
+        "startDate": "2021.9",
+        "description": "Go Lang의 인기 웹 프레임워크인 Gin을 활용한 방명록 형태의 게시판 제작 및 웹 배포를 한 프로젝트입니다.",
+        "images": [
+          "images/portfolio/gogin/p1.jpg",
+          "images/portfolio/gogin/p2.jpg",
+          "images/portfolio/gogin/p3.jpg",
+          "images/portfolio/gogin/p4.jpg",
+          "images/portfolio/gogin/p5.jpg",
+          "images/portfolio/gogin/p6.jpg"
+        ],
+        "url": "https://mandooginapp.herokuapp.com",
+        "technologies": [
+          {
+            "class": "devicon-go-plain",
+            "name": "Go Lang"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "퓨쳐센스",
+        "title": "인턴쉽 - 프론트 엔드 파트",
+        "years": "2021.09 - 현재",
+        "mainTech": [
+          "자바스크립트/리액트"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Reactjs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "알리바바 클라우드",
+        "title": "아시아 스타트업 데이",
+        "years": "2021.09",
+        "mainTech": [
+          "알리바바 클라우드"
+        ],
+        "technologies": [
+          "Elastic Compute Service",
+          "Simple Application Server"
+        ]
+      },
+      {
+        "company": "아마존 AWS",
+        "title": "AWSome 데이, 데이터특집, Builders 온라인",
+        "years": "2021.08 - 09",
+        "mainTech": [
+          "AWS"
+        ],
+        "technologies": [
+          "EC2",
+          "S3",
+          "AWS 자격증"
+        ]
+      },
+      {
+        "company": "한국IT교육원",
+        "title": "GoBlock 실무프로젝트 교육과정",
+        "years": "2021.06 - 2021.11",
+        "mainTech": [
+          "고블록"
+        ],
+        "technologies": [
+          "Go Lang",
+          "Python",
+          "PHP",
+          "Solidity",
+          "Hyperledger Fabric",
+          "TensorFlow"
+        ]
+      }
+    ]
+  }
