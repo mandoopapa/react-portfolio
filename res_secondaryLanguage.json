@@ -32,7 +32,8 @@
         "description": "GoBlock 교육과정 중 두번째 프로젝트로 Private 블록체인 Hyperledger Fabric 시스템의 이해와 설치, 데모 실행 과정을 담은 프로젝트입니다. 저희 팀은 2020 도쿄올림픽에서 있었던 판정논란에서 아이디어를 착안해 신뢰의 기술을 입혀 믿을 수 있는 전세계인의 축제 올림픽을 다시 되찾자는 슬로건을 목표로 하는 올림픽 채점 시스템을 제안 발표했습니다. 심사위원들의 채점표를 Hyperledger Fabric Marbles Demo의 자산인 Marble들로 시각화하여 해당 선수에게 점수로 전달할 때마다 트랜잭션이 발생되고 원장(ledger)에 기록되게 하여 신뢰할 수 있는 채점시스템을 구현하는 것을 목표로 했습니다.",
         "images": [
           "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p2.jpg",
+          "images/portfolio/photography/p3.jpg"
         ],
         "url": "https://github.com/mandoopapa/hyperdemo",
         "technologies": [

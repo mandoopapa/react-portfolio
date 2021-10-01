@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jae Seong Lee. My vision is Full-Stack Blockchain Developer. Now I studying Javascript and Reactjs for Front-End. Thank you. ",
+      "description": "👋 I'm Jae Seong Lee. My vision is Full-Stack Blockchain Developer. As a business major, I looked at the future of IT technology while working and learning in various fields such as startups, non-profit organizations, and manufacturing. In the future society, I believe that the technology of trust will lead the future. So, I recently changed my career path as a blockchain developer and am focusing on development studies. Now I studying Javascript and Reactjs for Front-End. Thank you. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -32,7 +32,8 @@
         "description": "This is the second project of the GoBlock training course, and it is a project that contains the process of understanding, installing, and running a demonstration of a private blockchain Hyperledger Fabric system. Our team proposed an Olympic scoring system with the goal of reclaiming the Olympic Games, a festival that can be trusted by people around the world by applying the technology of trust based on the idea from the judgment controversy at the Tokyo 2020 Olympic Games. Visualize the judges' scorecard with Marbles, the property of the Hyperledger Fabric Marbles Demo. The goal was to implement a reliable scoring system by allowing a transaction to be generated and recorded on the ledger whenever a player is scored.",
         "images": [
           "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/p2.jpg",
+          "images/portfolio/photography/p3.jpg"
         ],
         "url": "https://github.com/mandoopapa/hyperdemo",
         "technologies": [
