@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jae Seong Lee. My vision is Full-Stack Blockchain Developer. As a business major, I looked at the future of IT technology while working and learning in various fields such as startups, non-profit organizations, and manufacturing. In the future society, I believe that the technology of trust will lead the future. So, I recently changed my career path as a blockchain developer and am focusing on development studies. Now I studying Javascript and Reactjs for Front-End. Thank you. ",
+      "description": "👋 I'm Jae Seong Lee. My vision is Full-Stack Blockchain Developer. As a business major, I looked at the future of IT technology while working and learning in various fields such as startups, non-profit organizations, and manufacturing. In the future society, I believe that the technology of trust will lead the future. So, I recently changed my career path as a blockchain developer and am focusing on development studies. Now I studying Javascript and Reactjs for Front-End. Thank you!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -116,7 +116,7 @@
     "experience": [
       {
         "company": "FutureSense",
-        "title": "Internship - Front End Part",
+        "title": "Internship - Front End development",
         "years": "2021.09 - present",
         "mainTech": [
           "JavaScript/React"
@@ -127,6 +127,33 @@
           "JavaScript",
           "Bootstrap",
           "Reactjs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "Alibaba Cloud",
+        "title": "Asia Startup Day",
+        "years": "2021.09",
+        "mainTech": [
+          "Alibaba Cloud"
+        ],
+        "technologies": [
+          "Elastic Compute Service",
+          "Simple Application Server"
+        ]
+      },
+      {
+        "company": "Amazon Web Service",
+        "title": "AWSome Day, Data Edition, Builders Online",
+        "years": "2021.08 - 09",
+        "mainTech": [
+          "AWS"
+        ],
+        "technologies": [
+          "EC2",
+          "S3",
+          "AWS Certification"
         ]
       },
       {

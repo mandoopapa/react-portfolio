@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "안녕하세요!",
-      "description": "저는 경영학 전공자로 창업, 비영리단체, 제조업 등 여러 분야에서 업무를 거치고 배우면서 IT 기술의 미래를 눈여겨 보았습니다. 미래 사회에서는 신뢰의 기술이 미래를 선도할 것이라 생각하여 배움의 필요성을 느껴 최근 BlockChain 개발자로 진로를 변경하여 개발 공부에 매진하고 있습니다.",
+      "description": "저는 풀스택 블록체인 개발자를 비전으로 품고 있는 이재성이라고 합니다. 저는 경영학 전공자로 창업, 비영리단체, 제조업 등 여러 분야에서 업무를 거치고 배우면서 IT 기술의 미래를 눈여겨 보았습니다. 미래 사회에서는 신뢰의 기술이 미래를 선도할 것이라 생각하여 배움의 필요성을 느껴 최근 BlockChain 개발자로 진로를 변경하여 개발 공부에 매진하고 있습니다. 현재는 자바스크립트, 리액트와 같은 프론트 엔드 기술을 배워 블록체인 전문 프론트 엔드 개발자로의 성장을 목표로 하고 있습니다. 감사합니다!",
       "section_name": {
         "about": "소개",
         "projects": "프로젝트",
@@ -127,6 +127,33 @@
           "JavaScript",
           "Bootstrap",
           "Reactjs"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "알리바바 클라우드",
+        "title": "아시아 스타트업 데이",
+        "years": "2021.09",
+        "mainTech": [
+          "알리바바 클라우드"
+        ],
+        "technologies": [
+          "Elastic Compute Service",
+          "Simple Application Server"
+        ]
+      },
+      {
+        "company": "아마존 AWS",
+        "title": "AWSome 데이, 데이터특집, Builders 온라인",
+        "years": "2021.08 - 09",
+        "mainTech": [
+          "AWS"
+        ],
+        "technologies": [
+          "EC2",
+          "S3",
+          "AWS 자격증"
         ]
       },
       {
