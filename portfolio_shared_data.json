@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "JAE SEONG LEE",
+      "titles": [ "Blockchain Developer", "Go Lang Developer", "A Team Player" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/mandoopapa",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "ITBlog",
+          "url": "https://mdpapa.tistory.com",
+          "class": "far fa-edit"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "fab fa-html5",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "fab fa-css3-alt",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "fab fa-js",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "fab fa-react",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "fab fa-git",
+          "level": "80"
+        },
+        {
+          "name": "AWS",
+          "class": "fab fa-aws",
+          "level": "80"
+        },
+        {
+          "name": "GoLang",
+          "class": "devicon-go-plain",
+          "level": "75"
+        },
+        {
+          "name": "Python",
+          "class": "fab fa-python",
+          "level": "65"
+        }
+      ]
+    }
+  }

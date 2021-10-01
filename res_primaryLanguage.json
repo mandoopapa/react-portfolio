@@ -1,0 +1,148 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Jae Seong Lee. My vision is Full-Stack Blockchain Developer. Now I studying Javascript and Reactjs for Front-End. Thank you. ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "GoBlock Project #1",
+        "startDate": "2021.7",
+        "description": "As the first project in the goBlock curriculum, it is a project that includes understanding and analysis of the consensus algorithm that is the basis of blockchain technology. Our team analyzes the basic blockchain trilemma and utilizes three technologies: Stella Consensus Protocol, Zero Knowledge-STARKs, and Ricardian Contract. We proposed a PoDC algorithm that modified the Stellar consensus algorithm, and proposed and announced a blockchain-based voting system using it.",
+        "images": [
+          "images/portfolio/port1/p1.jpg",
+          "images/portfolio/port1/p2.jpg"
+        ],
+        "url": "https://github.com/mandoopapa/podc",
+        "technologies": [
+          {
+            "class": "devicon-slack-plain",
+            "name": "Slack"
+          }
+        ]
+      },
+      {
+        "title": "GoBlock Project #2",
+        "startDate": "2021.8",
+        "description": "This is the second project of the GoBlock training course, and it is a project that contains the process of understanding, installing, and running a demonstration of a private blockchain Hyperledger Fabric system. Our team proposed an Olympic scoring system with the goal of reclaiming the Olympic Games, a festival that can be trusted by people around the world by applying the technology of trust based on the idea from the judgment controversy at the Tokyo 2020 Olympic Games. Visualize the judges' scorecard with Marbles, the property of the Hyperledger Fabric Marbles Demo. The goal was to implement a reliable scoring system by allowing a transaction to be generated and recorded on the ledger whenever a player is scored.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/mandoopapa/hyperdemo",
+        "technologies": [
+          {
+            "class": "devicon-ubuntu-plain",
+            "name": "Ubuntu 16.04"
+          },
+          {
+            "class": "fas fa-atom",
+            "name": "Hyperledger Fabric"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          }
+        ]
+      },
+      {
+        "title": "GOPHER Hackhaton",
+        "startDate": "2021.8",
+        "description": "Participated in the 'Go Lang Hackathon Coding Contest based on SOLID Principles' held at CENTAP in Busan and won the grand prize. I wrote and presented the code at the competition.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/mandoopapa/gopher0827",
+        "technologies": [
+          {
+            "class": "devicon-go-plain",
+            "name": "Go Lang"
+          }
+        ]
+      },
+      {
+        "title": "GitHub Ko Ext Project",
+        "startDate": "2021.8",
+        "description": "As a Contributor, I participated in the GitHub Korean translation project, one of the GitHub open source projects. It is a project that utilizes Typescript and CSS selector to translate GitHub pages into Korean. Anyone can use it conveniently by installing the Google Chrome extension, Github Korean.",
+        "images": [
+          "images/portfolio/github_ext/p1.jpg",
+          "images/portfolio/github_ext/p2.jpg",
+          "images/portfolio/github_ext/p3.jpg"
+        ],
+        "url": "https://github.com/hatemogi/github-ko-ext",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-chrome-plain",
+            "name": "ChromeExtension"
+          }
+        ]
+      },
+      {
+        "title": "Go Gin Framework #1",
+        "startDate": "2021.9",
+        "description": "This is a project to create and distribute a bulletin board in the form of a guestbook using Gin, Go Lang's popular web framework.",
+        "images": [
+          "images/portfolio/gogin/p1.jpg",
+          "images/portfolio/gogin/p2.jpg",
+          "images/portfolio/gogin/p3.jpg",
+          "images/portfolio/gogin/p4.jpg",
+          "images/portfolio/gogin/p5.jpg",
+          "images/portfolio/gogin/p6.jpg"
+        ],
+        "url": "https://mandooginapp.herokuapp.com",
+        "technologies": [
+          {
+            "class": "devicon-go-plain",
+            "name": "Go Lang"
+          },
+          {
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "FutureSense",
+        "title": "Internship - Front End Part",
+        "years": "2021.09 - present",
+        "mainTech": [
+          "JavaScript/React"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Reactjs"
+        ]
+      },
+      {
+        "company": "HKIT",
+        "title": "GoBlock Practical Project",
+        "years": "2021.06 - 2021.11",
+        "mainTech": [
+          "GoBlock"
+        ],
+        "technologies": [
+          "Go Lang",
+          "Python",
+          "PHP",
+          "Solidity",
+          "Hyperledger Fabric",
+          "TensorFlow"
+        ]
+      }
+    ]
+  }
