@@ -92,7 +92,7 @@
       {
         "title": "Go Gin 프레임워크 게시판 제작",
         "startDate": "2021.9",
-        "description": "Go Lang의 인기 웹 프레임워크인 Gin을 활용한 방명록 형태의 게시판 제작 및 웹 배포를 한 프로젝트입니다.",
+        "description": "Go의 웹 프레임워크인 Gin을 활용한 방명록 형태의 게시판 제작 및 웹 배포를 진행한 프로젝트입니다.",
         "images": [
           "images/portfolio/gogin/p1.jpg",
           "images/portfolio/gogin/p2.jpg",
@@ -125,29 +125,45 @@
         "technologies": [
           "HTML",
           "CSS",
-          "JavaScript",
-          "Bootstrap",
-          "Reactjs"
+          "자바스크립트",
+          "부트스트랩",
+          "리액트"
+        ]
+      }
+    ],
+    "toyproject": [
+      {
+        "company": "부산 블록체인 특구 고블록 데모데이",
+        "title": "'고퍼' 해커톤 대회 / 하이퍼렛저 패브릭 데모 시연 대회",
+        "years": "2021.08",
+        "mainTech": [
+          "해커톤 대회 최우수상 / 데모 시연 특별상"
+        ],
+        "technologies": [
+          "Go",
+          "하이퍼렛저 패브릭"
+        ]
+      },
+      {
+        "company": "깃허브 오픈소스 프로젝트",
+        "title": "깃허브 페이지 한글화 프로젝트",
+        "years": "2021.07 - 2021. 08",
+        "mainTech": [
+          "타입스크립트, 크롬 확장프로그램"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "자바스크립트",
+          "타입스크립트"
         ]
       }
     ],
     "education": [
       {
-        "company": "알리바바 클라우드",
-        "title": "아시아 스타트업 데이",
-        "years": "2021.09",
-        "mainTech": [
-          "알리바바 클라우드"
-        ],
-        "technologies": [
-          "Elastic Compute Service",
-          "Simple Application Server"
-        ]
-      },
-      {
         "company": "아마존 AWS",
-        "title": "AWSome 데이, 데이터특집, Builders 온라인",
-        "years": "2021.08 - 09",
+        "title": "AWSome 데이, 데이터특집, 빌더스 온라인",
+        "years": "2021.07 - 09",
         "mainTech": [
           "AWS"
         ],
@@ -165,12 +181,12 @@
           "고블록"
         ],
         "technologies": [
-          "Go Lang",
-          "Python",
+          "Go",
+          "파이썬",
           "PHP",
-          "Solidity",
-          "Hyperledger Fabric",
-          "TensorFlow"
+          "솔리디티",
+          "하이퍼렛저 패브릭",
+          "텐서플로"
         ]
       }
     ]
