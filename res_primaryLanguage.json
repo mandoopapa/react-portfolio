@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Jae Seong Lee. My vision is Full-Stack Blockchain Developer. As a business major, I looked at the future of IT technology while working and learning in various fields such as startups, non-profit organizations, and manufacturing. In the future society, I believe that the technology of trust will lead the future. So, I recently changed my career path as a blockchain developer and am focusing on development studies. Now I studying Javascript and Reactjs for Front-End. Thank you!",
+      "description": "👋 I'm Jae Seong Lee. My vision is Full-Stack Blockchain Developer. As a business major, I looked at the future of IT technology while working and learning in various fields such as startups, non-profit organizations, and manufacturing. In the future society, I believe that the technology of trust will lead the future. So, I recently changed my career path as a blockchain developer and am focusing on development studies. Now I studying Javascript and Reactjs for Front-End. I upload and manage what I have studied on GitHub. Fork various open sources, analyze and study. I update series such as Go Lang basics on my IT blog. Also, I am posting a 'Development Diary Road to Developer' that I upload every day, which contains the progress of my growth as a developer. Thank you!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -74,7 +74,8 @@
         "images": [
           "images/portfolio/github_ext/p1.jpg",
           "images/portfolio/github_ext/p2.jpg",
-          "images/portfolio/github_ext/p3.jpg"
+          "images/portfolio/github_ext/p3.jpg",
+          "images/portfolio/github_ext/p4.jpg"
         ],
         "url": "https://github.com/hatemogi/github-ko-ext",
         "technologies": [
