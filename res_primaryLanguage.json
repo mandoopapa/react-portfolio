@@ -131,23 +131,39 @@
         ]
       }
     ],
-    "education": [
+    "toyproject": [
       {
-        "company": "Alibaba Cloud",
-        "title": "Asia Startup Day",
-        "years": "2021.09",
+        "company": "GoBlock DemoDay in Busan CENTAP",
+        "title": "GOPHER Hackhaton / Hyperledger Fabric Demo Preview",
+        "years": "2021.08",
         "mainTech": [
-          "Alibaba Cloud"
+          "Grand Prize at Hackhaton, Special Prize at Demo Preview "
         ],
         "technologies": [
-          "Elastic Compute Service",
-          "Simple Application Server"
+          "Go Lang",
+          "Hyperledger Fabric"
         ]
       },
       {
-        "company": "Amazon Web Service",
-        "title": "AWSome Day, Data Edition, Builders Online",
-        "years": "2021.08 - 09",
+        "company": "Github Open Source Project",
+        "title": "Github-ko-ext Project",
+        "years": "2021.07 - 2021. 08",
+        "mainTech": [
+          "Typescript, Chrome Extension"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TypeScript"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "company": "AWS",
+        "title": "AWSome Day, Data Edition, Builders Online Series",
+        "years": "2021.07 - 2021.09",
         "mainTech": [
           "AWS"
         ],
