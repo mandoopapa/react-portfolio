@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "안녕하세요!",
-      "description": "저는 풀스택 블록체인 개발자를 비전으로 품고 있는 이재성이라고 합니다. 저는 경영학 전공자로 창업, 비영리단체, 제조업 등 여러 분야에서 업무를 거치고 배우면서 IT 기술의 미래를 눈여겨 보았습니다. 미래 사회에서는 신뢰의 기술이 미래를 선도할 것이라 생각하여 배움의 필요성을 느껴 최근 BlockChain 개발자로 진로를 변경하여 개발 공부에 매진하고 있습니다. 현재는 자바스크립트, 리액트와 같은 프론트 엔드 기술을 배워 블록체인 전문 프론트 엔드 개발자로의 성장을 목표로 하고 있습니다. 감사합니다!",
+      "description": "저는 풀스택 블록체인 개발자를 비전으로 품고 있는 이재성이라고 합니다. 저는 경영학 전공자로 창업, 비영리단체, 제조업 등 여러 분야에서 업무를 거치고 배우면서 IT 기술의 미래를 눈여겨 보았습니다. 미래 사회에서는 신뢰의 기술이 미래를 선도할 것이라 생각하여 배움의 필요성을 느껴 최근 BlockChain 개발자로 진로를 변경하여 개발 공부에 매진하고 있습니다. 현재는 자바스크립트, 리액트와 같은 프론트 엔드 기술을 배워 블록체인 전문 프론트 엔드 개발자로의 성장을 목표로 하고 있습니다. GitHub에 학습한 소스 코드들을 정리해서 업로드하여 관리하고 있으며 다양한 오픈소스들을 포크해서 분석, 공부하고 있습니다. IT블로그에 Go Lang 기초편 등의 시리즈들과 매일 업로드하는 개발자로서의 성장과정을 담은 개발일기 Road to Developer를 포스팅하고 있습니다. 감사합니다!",
       "section_name": {
         "about": "소개",
         "projects": "프로젝트",
@@ -74,7 +74,8 @@
         "images": [
           "images/portfolio/github_ext/p1.jpg",
           "images/portfolio/github_ext/p2.jpg",
-          "images/portfolio/github_ext/p3.jpg"
+          "images/portfolio/github_ext/p3.jpg",
+          "images/portfolio/github_ext/p4.jpg"
         ],
         "url": "https://github.com/hatemogi/github-ko-ext",
         "technologies": [
