@@ -117,8 +117,23 @@
     "experience": [
       {
         "company": "FutureSense",
+        "title": "Front End developer",
+        "years": "2021.10 - present",
+        "mainTech": [
+          "JavaScript/React"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "Reactjs"
+        ]
+      },
+      {
+        "company": "FutureSense",
         "title": "Internship - Front End development",
-        "years": "2021.09 - present",
+        "years": "2021.09 - 2021.10",
         "mainTech": [
           "JavaScript/React"
         ],
